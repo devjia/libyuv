@@ -1,0 +1,6 @@
+framework module Pods_libyuv_Example {
+  umbrella header "Pods-libyuv_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

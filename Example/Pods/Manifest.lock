@@ -1,0 +1,16 @@
+PODS:
+  - libyuv (1744)
+
+DEPENDENCIES:
+  - libyuv (from `../`)
+
+EXTERNAL SOURCES:
+  libyuv:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  libyuv: 2d9c5d42dbbb32e4f61b3f9bba4341d01ad1bbcd
+
+PODFILE CHECKSUM: 86a5200e270b70d9635ad04574bd70cdf9f28515
+
+COCOAPODS: 1.8.4
